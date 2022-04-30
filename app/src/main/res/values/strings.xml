@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="rest_api_key">fe9d6c1f8546a7231332d1c6a95fc6cb</string>
+    <string name="maps_sdk_api_key">fe9d6c1f8546a7231332d1c6a95fc6cb</string>
+    <string name="client_id">33OkryzDZsJ3sIzNZr0z1ZbIHivDH8JH6aglpeJhowbrrInom3cb1Jk7PQ47dre9UOTO8Rl8_VH3XP-Je2LalPwEcjvh8NBv</string>
+    <string name="client_secret">lrFxI-iSEg8yCnG_yjOjGSMtxiOBUI8eG6KriXMtsuVEP86RPmDEIEXuLpGiVWPE8wYDAC2pxSIFvwUSBKpdhoh5jQLyrcKrp9RgApq_rjU=</string>
+    <string name="get_location">Get Location</string>
+    <string name="location_rationale">To get your location permission is required</string>
+</resources>
